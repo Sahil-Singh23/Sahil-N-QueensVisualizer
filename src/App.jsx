@@ -299,7 +299,7 @@ export default function NQueensVisualizer() {
             >
               {cell === 1 && (
                 <img
-                  src={`${import.meta.env.BASE_URL}chess1.png`}
+                  src={`${import.meta.env.BASE_URL}/chess1.png`}
                   alt="Chess Queen"
                   className="w-4/5 h-4/5 drop-shadow-lg"
                   style={{
