@@ -25,7 +25,7 @@ An interactive visualization tool for the classic N-Queens problem, demonstratin
 
 ## Live Deployment 🚀
 
-Experience the visualizer: [sahil-singh23.github.io/Sahil-N-QueensVisualizer/)
+Experience the visualizer: [sahil-singh23.github.io/Sahil-N-QueensVisualizer/](https://sahil-singh23.github.io/Sahil-N-QueensVisualizer/)
 
 ## LeetCode Solution 💡
 
