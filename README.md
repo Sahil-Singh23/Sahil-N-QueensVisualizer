@@ -1,12 +1,34 @@
-# React + Vite
+# N-Queens Visualizer 👑 [![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://sahil-n-queens-visualizer.vercel.app/) [![LeetCode Solution](https://img.shields.io/badge/LeetCode-Solution-blue)](https://leetcode.com/problems/n-queens/solutions/6731830/backtracking-easy-to-understand-100-fast-jats/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive visualization tool for the classic N-Queens problem, demonstrating backtracking algorithms in action. Built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+![Demo Screenshot](https://via.placeholder.com/800x400.png?text=N+Queens+Visualizer+Screenshot) *Add actual screenshot later*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features ✨
+- 🎮 Interactive board visualization
+- 🔢 Adjustable board size (4x4 to 15x15)
+- ⏱️ Animation speed control
+- ▶️ Step-by-step backtracking visualization
+- 🔍 Multiple solution navigation
+- 📊 Algorithm complexity analysis
+- 📱 Responsive design
+- 🎨 Custom color schemes
 
-## Expanding the ESLint configuration
+## Technologies Used 🛠️
+- **React** (Vite)
+- **Tailwind CSS**
+- React Hooks (useState, useEffect)
+- CSS Grid
+- Backtracking Algorithms
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Live Deployment 🚀
+Experience the visualizer: [https://sahil-n-queens-visualizer.vercel.app/](https://sahil-n-queens-visualizer.vercel.app/)
+
+## LeetCode Solution 💡
+Check out my optimized N-Queens solution on LeetCode:  
+[https://leetcode.com/problems/n-queens/solutions/6731830/backtracking-easy-to-understand-100-fast-jats/](https://leetcode.com/problems/n-queens/solutions/6731830/backtracking-easy-to-understand-100-fast-jats/)
+
+## Installation 💻
+1. Clone the repository:
+```bash
+git clone https://github.com/Sahil-Singh23/Sahil-N-QueensVisualizer.git
